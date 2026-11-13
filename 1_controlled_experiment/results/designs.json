@@ -1,0 +1,14 @@
+{
+ "D1_random_overlap": "Random window split, overlapping windows across partitions (L1+L4)",
+ "D2_random_purged": "Random window split, overlapping windows purged (L4)",
+ "D3_within_subject_blocks": "Within-subject chronological blocks (L4, temporally separated)",
+ "D4_loso_clean": "Leave-one-subject-out, all steps fitted on training data (reference)",
+ "D5_loso_norm_all": "LOSO, normalisation fitted on all data (L2)",
+ "D6_loso_select_all": "LOSO, supervised feature selection on all data (L2)",
+ "D6r_loso_select_train": "LOSO, supervised feature selection on training data (reference for D6)",
+ "D7_loso_threshold_test": "LOSO, decision threshold tuned on the test subject (L3)",
+ "D8_loso_hparam_test": "LOSO, hyperparameters or epochs selected on the test subject (L3)",
+ "S1_placement_thigh": "LOSO, trained on ankle, tested on thigh sensor (placement shift)",
+ "S2_rotation_45": "LOSO, test signals rotated 45 degrees (orientation shift)",
+ "S3_rotation_90": "LOSO, test signals rotated 90 degrees (orientation shift)"
+}

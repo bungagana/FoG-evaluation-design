@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "Code and data for: Evaluation Design of Artificial Intelligence Models for Freezing of Gait in Parkinson's Disease: A Systematic Review and Controlled Experiment"
+version: "1.0.0"
+date-released: "2026-11-13"
+license: MIT
+repository-code: "https://github.com/bungagana/FoG-evaluation-design"
+authors:
+  - family-names: Muna
+    given-names: Bunga Laelatul
+    affiliation: "Department of Informatics, Institut Teknologi Sepuluh Nopember"
+    orcid: "https://orcid.org/0009-0002-1265-4928"
+  - family-names: Fajar
+    given-names: Aziz
+    affiliation: "Department of Data Science Technology, Universitas Airlangga"
+  - family-names: Sarno
+    given-names: Riyanarto
+    affiliation: "Department of Informatics, Institut Teknologi Sepuluh Nopember"
+  - family-names: Hitam
+    given-names: Muhammad Suzuri
+    affiliation: "Department of Computer Science, Universiti Malaysia Terengganu"
+  - family-names: Sungkono
+    given-names: Kelly Rossa
+    affiliation: "Department of Informatics, Institut Teknologi Sepuluh Nopember"
+keywords:
+  - freezing of gait
+  - Parkinson's disease
+  - data leakage
+  - systematic review
+  - machine learning evaluation
+  - wearable sensors

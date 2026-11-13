@@ -1,0 +1,20 @@
+test,kind,group1,n1,est1,group2,n2,est2,p,p_holm
+Validation tier trend,Spearman rho,WS<SI<External,63,rho -0.40,,,,0.001160057171151058,0.022041086251870103
+Within-subject vs independent,Mann-Whitney U (headline value),Within-subject,21,median 0.932,Subject-independent or external,42.0,median 0.863,0.0025364846340134176,0.045656723412241515
+Within-subject vs independent,Fisher exact (headline >= 0.95),Within-subject,21,9/21 (42.9%),Subject-independent or external,42.0,4/42 (9.5%),0.00599743291986113,0.10195635963763922
+Any leakage,Mann-Whitney U (headline value),Yes,56,median 0.900,No,11.0,median 0.880,0.44615700380200973,1.0
+Any leakage,Fisher exact (headline >= 0.95),Yes,56,14/56 (25.0%),No,11.0,1/11 (9.1%),0.43294019085868696,1.0
+L1 present vs absent,Mann-Whitney U (headline value),Present,27,median 0.910,Absent,41.0,median 0.868,0.015806106922396628,0.23709160383594943
+L2 present vs absent,Mann-Whitney U (headline value),Present,7,median 0.900,Absent,39.0,median 0.890,0.902631524740109,1.0
+L3 present vs absent,Mann-Whitney U (headline value),Present,37,median 0.873,Absent,20.0,median 0.890,0.6758753893389019,1.0
+L4 present vs absent,Mann-Whitney U (headline value),Present,42,median 0.910,Absent,29.0,median 0.858,0.02183580349894924,0.26202964198739087
+L1 present vs absent,Fisher exact (headline >= 0.95),Present,27,7/27 (25.9%),Absent,41.0,6/41 (14.6%),0.3459403291826867,1.0
+L4 present vs absent,Fisher exact (headline >= 0.95),Present,42,12/42 (28.6%),Absent,29.0,3/29 (10.3%),0.08086224099025054,0.8894846508927559
+Daphnet vs other data,Fisher exact (any leakage),Daphnet,21,18/21 (85.7%),Other,62.0,43/62 (69.4%),0.16583992483491178,1.0
+Daphnet vs other data,Fisher exact (within-subject tier),Daphnet,21,11/21 (52.4%),Other,62.0,12/62 (19.4%),0.009356055388189259,0.14969688621102814
+Daphnet vs other data,Mann-Whitney U (headline value),Daphnet,19,median 0.910,Other,55.0,median 0.880,0.2472100037551268,1.0
+Code released vs not,Fisher exact (any leakage),Released,10,4/10 (40.0%),Not released,73.0,57/73 (78.1%),0.018784938836494243,0.24852351518193977
+Deep learning vs classical ML,Mann-Whitney U (headline value),Deep learning,38,median 0.905,Classical ML,24.0,median 0.853,0.01775167965585284,0.24852351518193977
+Deep learning vs classical ML,Fisher exact (any leakage),Deep learning,40,31/40 (77.5%),Classical ML,27.0,18/27 (66.7%),0.40324146563563035,1.0
+Deep learning vs classical ML,Fisher exact (L3 present),Deep learning,40,19/40 (47.5%),Classical ML,27.0,9/27 (33.3%),0.3157253324656152,1.0
+Publication period,Fisher exact (any leakage),2024-2026,35,28/35 (80.0%),2018-2023,48.0,33/48 (68.8%),0.3176208825793306,1.0

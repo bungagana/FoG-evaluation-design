@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated during reproduction
+1_controlled_experiment/cache/
+1_controlled_experiment/results_new/
+2_between_study_analysis/between_study_tests.csv
+3_figures/fig3_to_fig7/figures_out/
+3_figures/fig1_mechanisms/fig1_mechanisms.*
+3_figures/fig2_prisma/fig2_prisma.*
+
+# Node
+node_modules/
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,66 @@
+08:40:41   lr seed0 D1_random_overlap done
+08:40:41   lr seed0 D2_random_purged done
+08:40:42   lr seed0 D3_within_subject_blocks done
+08:40:43   lr seed0 D5_loso_norm_all done
+08:40:44   lr seed0 D6_loso_select_all done
+08:40:44   lr seed0 D6r_loso_select_train done
+08:40:55   lr seed0 LOSO family done
+08:40:55 lr seed0 saved in 15s
+08:40:55   lr seed1 D1_random_overlap done
+08:40:56   lr seed1 D2_random_purged done
+08:40:56   lr seed1 D3_within_subject_blocks done
+08:40:57   lr seed1 D5_loso_norm_all done
+08:40:58   lr seed1 D6_loso_select_all done
+08:40:59   lr seed1 D6r_loso_select_train done
+08:41:09   lr seed1 LOSO family done
+08:41:09 lr seed1 saved in 15s
+08:41:10   lr seed2 D1_random_overlap done
+08:41:10   lr seed2 D2_random_purged done
+08:41:11   lr seed2 D3_within_subject_blocks done
+08:41:11   lr seed2 D5_loso_norm_all done
+08:41:12   lr seed2 D6_loso_select_all done
+08:41:13   lr seed2 D6r_loso_select_train done
+08:41:22   lr seed2 LOSO family done
+08:41:23 lr seed2 saved in 13s
+08:41:40   rf seed0 D1_random_overlap done
+08:41:54   rf seed0 D2_random_purged done
+08:42:12   rf seed0 D3_within_subject_blocks done
+08:42:52   rf seed0 D5_loso_norm_all done
+08:43:21   rf seed0 D6_loso_select_all done
+08:43:51   rf seed0 D6r_loso_select_train done
+08:46:49   rf seed0 LOSO family done
+08:46:49 rf seed0 saved in 326s
+08:47:06   rf seed1 D1_random_overlap done
+08:47:20   rf seed1 D2_random_purged done
+08:47:38   rf seed1 D3_within_subject_blocks done
+08:48:15   rf seed1 D5_loso_norm_all done
+08:48:44   rf seed1 D6_loso_select_all done
+08:49:15   rf seed1 D6r_loso_select_train done
+08:51:53   rf seed1 LOSO family done
+08:51:53 rf seed1 saved in 304s
+08:52:09   rf seed2 D1_random_overlap done
+08:52:22   rf seed2 D2_random_purged done
+08:52:40   rf seed2 D3_within_subject_blocks done
+08:53:18   rf seed2 D5_loso_norm_all done
+08:53:45   rf seed2 D6_loso_select_all done
+08:54:13   rf seed2 D6r_loso_select_train done
+08:56:54   rf seed2 LOSO family done
+08:56:54 rf seed2 saved in 301s
+09:00:40   cnn seed0 D1_random_overlap done
+09:02:16   cnn seed0 D2_random_purged done
+09:05:00   cnn seed0 D3_within_subject_blocks done
+09:11:50   cnn seed0 D5_loso_norm_all done
+09:17:29   cnn seed0 LOSO family done
+09:17:29 cnn seed0 saved in 1235s
+09:19:50   cnn seed1 D1_random_overlap done
+09:21:19   cnn seed1 D2_random_purged done
+09:23:42   cnn seed1 D3_within_subject_blocks done
+09:28:55   cnn seed1 D5_loso_norm_all done
+09:34:21   cnn seed1 LOSO family done
+09:34:21 cnn seed1 saved in 1012s
+09:36:40   cnn seed2 D1_random_overlap done
+09:38:09   cnn seed2 D2_random_purged done
+09:40:27   cnn seed2 D3_within_subject_blocks done
+09:45:35   cnn seed2 D5_loso_norm_all done
+09:51:16   cnn seed2 LOSO family done
+09:51:16 cnn seed2 saved in 1015s
